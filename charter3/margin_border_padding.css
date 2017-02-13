@@ -1,0 +1,13 @@
+body {
+ background: linen;
+ width: 500px;
+ margin: 200px auto;
+}
+div {
+ border: 50px solid maroon;
+ text-align: center;
+ padding: 50px;
+}
+p {
+ border: 2px dashed blue;
+}
